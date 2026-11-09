@@ -56,7 +56,7 @@
 ## <img src="https://img.icons8.com/ios-filled/20/ffffff/activity-history.png"/> Contribution
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=nopal2008&theme=tokyo-night&hide_border=true&area=true"/>
+  <img width="100%" src="https://ghchart.rshah.org/00c2cc/nopal2008" alt="GitHub contribution chart"/>
 </p>
 
 <!-- SNAKE ANIMATION (dibuat otomatis dari kontribusi kamu lewat GitHub Actions) -->
