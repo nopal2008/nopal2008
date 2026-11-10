@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Fatih%20Nauval&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Fullstack%20Developer%20in%20Progress%20%E2%80%A2%20AI%20Enthusiast&descSize=16&descAlignY=58&animation=fadeIn" width="100%"/>
 </p>
 
-<h2 align="center">Hi, I'm Muhammad Fatih Nauval Azzidan 👋</h2>
+<h2 align="center">Hi, I'm Muhammad Fatih Nauval Azzidan </h2>
 <p align="center">Fullstack Developer in Progress • AI Enthusiast</p>
 
 <!-- TYPING -->
